@@ -9,7 +9,7 @@
 
 This is a full end-to-end data analytics project analysing hospital patient records to uncover insights on treatment costs, readmission rates, patient outcomes, and satisfaction scores.
 
-The project follows a real-world analytics workflow — from raw data and SQL querying, through Excel-based cleaning and analysis, to an interactive Power BI dashboard — demonstrating the complete skill set expected of a junior to mid-level data analyst.
+The project follows a real-world analytics workflow — from raw data and SQL querying, through Excel-based cleaning and analysis, to an interactive Power BI dashboard.
 
 ---
 
