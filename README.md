@@ -21,12 +21,12 @@ hospital-patient-records-analysis/
 ├── data/
 │   └── hospital_data_analysis.csv
 ├── sql/
-│   ├── hospital_schema.sql        ← Database setup, table, view & stored procedure
-│   └── hospital_analysis.sql      ← All 10 analytical queries
+│   ├── hospital_schema.sql        
+│   └── hospital_analysis.sql     
 ├── excel/
-│   └── hospital_analysis.xlsx     ← Cleaned data, pivot tables & dashboard
+│   └── hospital_analysis.xlsx     
 ├── powerbi/
-│   └── hospital_dashboard.pbix    ← Interactive 4-page Power BI report
+│   └── hospital_dashboard.pbix    
 └── screenshots/
     ├── overview_page.png
     ├── condition_analysis.png
@@ -42,7 +42,7 @@ hospital-patient-records-analysis/
 |---|---|---|
 | MySQL | 8.0+ | Database design, SQL querying, views, stored procedures |
 | MySQL Workbench | 8.0+ | Query editor and schema visualisation |
-| Microsoft Excel | 2019 / 365 | Data cleaning, formula analysis, pivot tables, dashboard |
+| Microsoft Excel | 2016 | Data cleaning, formula analysis, pivot tables, dashboard |
 | Power BI Desktop | Latest | Interactive dashboard, DAX measures, slicers |
 | GitHub | — | Version control and portfolio publishing |
 
