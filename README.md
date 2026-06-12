@@ -221,6 +221,17 @@ Condition Cost Rank =
 
 ---
 
+## 💡 Recommendations
+
+| # | Recommendation | Based On |
+|---|---|---|
+| 1 | Structured follow-up care for Heart Attack & Heart Disease patients | 100% and 98.5% readmission rates |
+| 2 | Cost-pathway review for Cancer treatment | Avg $25,000 cost, 42.7-day avg stay |
+| 3 | Satisfaction initiative for Stable outcome patients | 3.24 vs 3.84 satisfaction gap |
+| 4 | Chronic disease programs for 45–60 age group | 36.5% of total admissions |
+| 5 | Standardise satisfaction to 1–5 or 1–10 scale | Current scale starts at 2, limits benchmarking |
+| 6 | Add admission date column to future data collection | No time-series analysis currently possible |
+
 ## 🚀 How to Run This Project
 
 ### MySQL Setup
@@ -272,18 +283,9 @@ source sql/hospital_analysis.sql
 
 ---
 
-## 🔮 Potential Next Steps
-
-- Add a date/admission column to enable time-series analysis and trend charts
-- Build a cost prediction model using age, condition and procedure as features
-- Incorporate real-world hospital data (e.g. CMS public datasets) for external benchmarking
-- Add a what-if parameter in Power BI to model how reducing readmissions impacts total cost
-
----
-
 ## 👤 Author
 
-**[Your Name]**
+**[Sifiso Mngomezulu]**
 📧 [your.email@example.com]
 🔗 [LinkedIn Profile URL]
 💼 [Portfolio URL]
