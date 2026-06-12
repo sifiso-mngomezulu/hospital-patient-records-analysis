@@ -255,11 +255,19 @@ source sql/hospital_analysis.sql
 
 ## 📁 Screenshots
 
-> *(Add your dashboard screenshots to the `/screenshots` folder and they will display here)*
-> overview_page.png
-> condition_analysis.png
-> demographics_page.png
-> excel_dashboard.png
+## Screenshots
+
+### Overview
+![Overview](screenshots/overview_page.png)
+
+### Condition Analysis
+![Condition Analysis](screenshots/condtion_analysis.png)
+
+### Demographics
+![Demographics](screenshots/demographics_page.png)
+
+### Excel Dashboard
+![Excel Dashboard](screenshots/excel_dashboard.png)
 
 ---
 
