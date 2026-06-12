@@ -261,7 +261,8 @@ source sql/hospital_analysis.sql
 ![Overview](screenshots/overview_page.png)
 
 ### Condition Analysis
-![Condition Analysis](screenshots/condtion_analysis.png)
+![Condition Analysis](screenshots/condition_analysis.png)
+
 
 ### Demographics
 ![Demographics](screenshots/demographics_page.png)
