@@ -203,8 +203,6 @@ Condition Cost Rank =
 | 3 — Demographics | Age and gender breakdown | Stacked bar, scatter plot, slicers |
 | 4 — Cost & Satisfaction | Spend and experience | Cost tier bar, satisfaction by outcome, score distribution |
 
-🔗 **[View Live Power BI Dashboard](#)** ← *(replace with your published link)*
-
 ---
 
 ## 💡 Key Findings
@@ -286,9 +284,9 @@ source sql/hospital_analysis.sql
 ## 👤 Author
 
 **[Sifiso Mngomezulu]**
-📧 [your.email@example.com]
-🔗 [LinkedIn Profile URL]
-💼 [Portfolio URL]
+📧 [mngomezulusifiso07@gmail.com]
+🔗 [www.linkedin.com/in/sifiso-mngomezulu-774956417]
+💼 [https://datascienceportfol.io/mngomezulusifiso07]
 
 ---
 
